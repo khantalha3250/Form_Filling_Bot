@@ -69,3 +69,5 @@ dmypy.json
 
 *.pdf
 *.txt
+
+.gitignore
